@@ -6,3 +6,5 @@ Simple Maven Project
 safsdavasdfgfd
 sdvsdfvsdfb
 cnbgcgvfnfhgmjy
+
+updated README file
