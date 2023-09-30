@@ -3,4 +3,4 @@
 Simple Maven Project
 <br
 
-#2nd addition
+#2nd addition, version 2
