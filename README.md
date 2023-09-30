@@ -5,4 +5,4 @@ Simple Maven Project
 
 #2nd addition
 
-#3rd addition
+#3rd addition - 2
